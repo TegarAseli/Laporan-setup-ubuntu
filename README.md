@@ -56,3 +56,5 @@ Pada proses instalasi ini, bisa bebas memilih bahasa yang akan digunakan lalu ne
 Masih pada proses instalasi, kita bebas memilih layout keyboard yang akan digunakan (Saya memakai layout English US), lalu tekan next.
 
 ![memilih layout](Screenshot%20Tugas%20linux/Screenshot%202024-08-29%20191637.png)
+
+- Membuat 
