@@ -16,4 +16,8 @@ Buka VirtualBox dan klik "New".
 ![Proses pembuatan virtual machine ubuntu](Screenshot%20Tugas%20linux/Screenshot%202024-08-29%20190742.png)
 
 ### 2. Memasukkan File ISO
-Klik "ISO Image" dan Cari File ISO UBUNTU Yang sudAh Didownload
+Klik "ISO Image" dan Cari File ISO UBUNTU Yang sudah Didownload
+
+![menambahkan file iso ke Virtual Machine](Screenshot%20Tugas%20linux/Screenshot%202024-08-29%20190820%20-%20Copy%20-%20Copy.png)
+
+### 3
