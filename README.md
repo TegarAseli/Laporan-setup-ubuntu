@@ -31,7 +31,7 @@ Pada langkah kali ini, kami diberikan pilihan untuk mengatur seberapa banyak RAM
 ![mengatur seberapa banyak memori dan cpu yang akan digunakan](Screenshot%20Tugas%20linux/Screenshot%202024-08-29%20191230%20-%20Copy.png)
 
 ### 5 Menetapkamn Virtual Base Memori
-Selannjutnya adalah menetapkan Virtual Base Memori pada Virtual Machine Linux, disini saya menetapkan memori yang akan dialokasikan ke Virtual Machine sebanyak 20 GB 
+Selanjutnya adalah menetapkan Virtual Base Memori pada Virtual Machine Linux, disini saya menetapkan memori yang akan dialokasikan ke Virtual Machine sebanyak 20 GB 
 (20480 MB)
 
 ![menetapkan virtua base memori](Screenshot%20Tugas%20linux/Screenshot%202024-08-29%20191259.png)
@@ -41,4 +41,6 @@ Selannjutnya adalah menetapkan Virtual Base Memori pada Virtual Machine Linux, d
 Proses kali ini hanya menunggu instalasi UBUNTU pada Virtual Box
 
 ![menunggu proses instalasi ubuntu versi 24.04](Screenshot%20Tugas%20linux/Screenshot%202024-08-29%20191358.png)
+
+![menunggu proses instalasi ubuntu versi 24.04](Screenshot%20Tugas%20linux/Screenshot%202024-08-29%20191926.png)
 
