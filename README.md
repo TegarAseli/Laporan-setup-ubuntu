@@ -53,6 +53,6 @@ Pada proses instalasi ini, bisa bebas memilih bahasa yang akan digunakan.
 
 - Mengatur Layout Keyboard Yang Akan Digunakan
 
-Masih pada proses instalasi, kita bebas memilih layout keyboard yang akan digunakan (Saya memakai layout)
+Masih pada proses instalasi, kita bebas memilih layout keyboard yang akan digunakan (Saya memakai layout English US)
 
 ![memilih layout](Screenshot%20Tugas%20linux/Screenshot%202024-08-29%20191637.png)
