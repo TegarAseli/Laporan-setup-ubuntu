@@ -37,7 +37,7 @@ Selanjutnya adalah menetapkan Virtual Base Memori pada Virtual Machine Linux, di
 ![menetapkan virtua base memori](Screenshot%20Tugas%20linux/Screenshot%202024-08-29%20191259.png)
 
 ### 6 Menunggu Proses Instalasi UBUNTU Versi 24.04
-Proses kali ini hanya menunggu instalasi UBUNTU pada Virtual Box.
+Proses kali ini hanya menunggu instalasi UBUNTU pada VirtualBox.
 
 ![menunggu proses instalasi ubuntu versi 24.04](Screenshot%20Tugas%20linux/Screenshot%202024-08-29%20191358.png)
 
@@ -68,3 +68,8 @@ Kemudian masih pada proses instalasi, disini akan disuruh membuat Nama, Username
 Proses kali ini setting zona waktu yang akan digunakan. Klik Next
 
 ![Zona Waktu yang digunakan](Screenshot%20Tugas%20linux/Screenshot%202024-08-29%20191907.png)
+
+### 8 Masukkan Password Yang baru Saja Dibuat
+Sebelum masuk ke Tampilan UBUNTU Linux pada VirtualBox, user harus memasukkan password yang sudah dibuat pada proses instalasi sebelumnya.
+
+![login akun yang baru saja dibuat](Screenshot%20Tugas%20linux/Screenshot%202024-08-29%20193418.png)
