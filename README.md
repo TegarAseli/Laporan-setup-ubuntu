@@ -63,7 +63,7 @@ Kemudian masih pada proses instalasi, disini akan disuruh membuat Nama, Username
 
 ![pembuatan Nama, Username, dan Password untuk Linux](Screenshot%20Tugas%20linux/Screenshot%202024-08-29%20191855.png)
 
-- Menyetel ZOna Waktu Yang Digunakan
+- Menyetel Zona Waktu Yang Digunakan
 
 Proses kali ini setting zona waktu yang akan digunakan. Klik Next
 
