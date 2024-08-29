@@ -12,4 +12,5 @@ Pada praktikum ini, kami melakukan instalasi sistem operasi Ubuntu di VirtualBox
 ## Langkah-Langkah Instalasi
 ### 1. Membuat Virtual Machine Baru di VirtualBox
 Buka VirtualBox dan klik "New".
+
 ![Proses pembuatan virtual machine ubuntu](Screenshot%20Tugas%20linux/Screenshot%202024-08-29%20190742.png)
