@@ -36,7 +36,6 @@ Selanjutnya adalah menetapkan Virtual Base Memori pada Virtual Machine Linux, di
 
 ![menetapkan virtua base memori](Screenshot%20Tugas%20linux/Screenshot%202024-08-29%20191259.png)
 
-
 ### 6 Menunggu Proses Instalasi UBUNTU Versi 24.04
 Proses kali ini hanya menunggu instalasi UBUNTU pada Virtual Box
 
@@ -44,3 +43,8 @@ Proses kali ini hanya menunggu instalasi UBUNTU pada Virtual Box
 
 ![menunggu proses instalasi ubuntu versi 24.04](Screenshot%20Tugas%20linux/Screenshot%202024-08-29%20191926.png)
 
+### 7 Proses Mengatur Bahasa, Tata Letak(Layout) Keyboard, dan Menyetel Zona Waktu Yang Digunakan
+
+# Mengatur Bahasa Yang Akan Digunakan
+
+![bahasa yang digunakan](Screenshot%20Tugas%20linux/Screenshot%202024-08-29%20191614.png)
