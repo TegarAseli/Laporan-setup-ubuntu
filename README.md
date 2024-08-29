@@ -73,3 +73,8 @@ Proses kali ini setting zona waktu yang akan digunakan. Klik Next
 Sebelum masuk ke Tampilan UBUNTU Linux pada VirtualBox, user harus memasukkan password yang sudah dibuat pada proses instalasi sebelumnya.
 
 ![login akun yang baru saja dibuat](Screenshot%20Tugas%20linux/Screenshot%202024-08-29%20193418.png)
+
+### 9. Tampilan Linux UBUNTU Versi 24.04
+Berikut adalah tampilan Linux UBUNTU Versi 24.04 yang berhasil diinstal
+
+![Linux UBUNTU 24.04](Screenshot%20Tugas%20linux/Screenshot%202024-08-29%20193628.png)
