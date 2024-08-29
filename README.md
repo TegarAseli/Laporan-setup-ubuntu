@@ -46,11 +46,13 @@ Proses kali ini hanya menunggu instalasi UBUNTU pada Virtual Box
 ### 7 Proses Mengatur Bahasa, Tata Letak(Layout) Keyboard, dan Menyetel Zona Waktu Yang Digunakan
 
 - Mengatur Bahasa Yang Akan Digunakan
+
 Pada proses instalasi ini, bisa bebas memilih bahasa yang akan digunakan.
 
 ![bahasa yang digunakan](Screenshot%20Tugas%20linux/Screenshot%202024-08-29%20191614.png)
 
 - Mengatur Layout Keyboard Yang Akan Digunakan
+
 Masih pada proses instalasi, kita bebas memilih layout keyboard yang akan digunakan (Saya memakai layout)
 
 ![memilih layout](Screenshot%20Tugas%20linux/Screenshot%202024-08-29%20191637.png)
