@@ -57,4 +57,8 @@ Masih pada proses instalasi, kita bebas memilih layout keyboard yang akan diguna
 
 ![memilih layout](Screenshot%20Tugas%20linux/Screenshot%202024-08-29%20191637.png)
 
-- Membuat 
+- Membuat Nama, Username, dan Password
+
+Kemudian masih pada proses instalasi, disini akan disuruh membuat Nama, Username, dan Password untuk masuk pada Sistem Operasi Linux nantinya.
+
+![pembuatan Nama, Username, dan Password untuk Linux](Screenshot%20Tugas%20linux/Screenshot%202024-08-29%20191855.png)
