@@ -26,7 +26,7 @@ Untuk Langkah Ini Kita Bebas Memasukkan Yang Kita Mau.
 ![membuat username, password. dan Host name](Screenshot%20Tugas%20linux/Screenshot%202024-08-29%20191013%20-%20Copy.png)
 
 ### 4 Mengatur Seberapa Banyak RAM dan CPU Yang Akan Digunakan
-Pada langkah kali ini, kami diberikan pilihan untuk mengatur seberapa banyak RAM dan CPU yang akan digunakan. Biasanya pada RAM menggunakan 4GB (4096 MB) dan CPU kisaran 1-5, disini saya mengatur jumlah RAM dan CPU yang digunakan pada Virtual Machine ini pada 4GB (4096) dan 4 Core.
+Pada langkah kali ini, kami diberikan pilihan untuk mengatur seberapa banyak RAM dan CPU yang akan digunakan. Biasanya pada RAM menggunakan 4GB (4096 MB) dan CPU kisaran 1-5, disini saya mengatur jumlah RAM dan CPU yang digunakan pada Virtual Machine ini pada 4GB (4096) dan 4 GPU.
 
 ![mengatur seberapa banyak memori dan cpu yang akan digunakan](Screenshot%20Tugas%20linux/Screenshot%202024-08-29%20191230%20-%20Copy.png)
 
