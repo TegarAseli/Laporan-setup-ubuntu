@@ -1,4 +1,4 @@
 # Laporan-setup-ubuntu
 - Laporan proses instalasi sistem operasi linux
 
-![Proses pembuatan virual machine ubuntu] (Screenshot Tugas linux/Screenshot 2024-08-29 190742.png)
+![Proses pembuatan virual machine ubuntu] (blob/main/Screenshot%20Tugas%20linux/Screenshot%202024-08-29%20190742.png)
