@@ -36,3 +36,9 @@ Selannjutnya adalah menetapkan Virtual Base Memori pada Virtual Machine Linux, d
 
 ![menetapkan virtua base memori](Screenshot%20Tugas%20linux/Screenshot%202024-08-29%20191259.png)
 
+
+### 6 Menunggu Proses Instalasi UBUNTU Versi 24.04
+Proses kali ini hanya menunggu instalasi UBUNTU pada Virtual Box
+
+![menunggu proses instalasi ubuntu versi 24.04](Screenshot%20Tugas%20linux/Screenshot%202024-08-29%20191358.png)
+
