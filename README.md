@@ -1,4 +1,3 @@
 # Laporan-setup-ubuntu
-Laporan proses instalasi sistem operasi linux
+- Laporan proses instalasi sistem operasi linux -
 
-uyd
