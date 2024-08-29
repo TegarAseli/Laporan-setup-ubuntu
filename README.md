@@ -24,3 +24,10 @@ Klik "ISO Image" dan Cari File ISO UBUNTU Yang sudah Didownload
 Untuk Langkah Ini Kita Bebas Memasukkan Yang Kita Mau
 
 ![membuat username, password. dan Host name](Screenshot%20Tugas%20linux/Screenshot%202024-08-29%20191013%20-%20Copy.png)
+
+### 4 Mengatur Seberapa Banyak Memori dan CPU Yang Akan Digunakan
+Pada langkah kali ini, kami diberikan pilihan untuk mengatur seberapa banyak memori dan CPU yang akan digunakan. Biasanya pada memori menggunakan 4GB (4096 MB) dan CPU kisaran 1-5 
+
+![mengatur seberapa banyak memori dan cpu yang akan digunakan](Screenshot%20Tugas%20linux/Screenshot%202024-08-29%20191230%20-%20Copy.png)
+
+
