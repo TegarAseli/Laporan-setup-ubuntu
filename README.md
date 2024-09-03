@@ -1,4 +1,5 @@
 # Laporan-setup-ubuntu
+### Soal Nomor 1
 - Laporan proses instalasi sistem operasi linux
 
 ## Pendahuluan
@@ -78,3 +79,24 @@ Sebelum masuk ke Tampilan UBUNTU Linux pada VirtualBox, user harus memasukkan pa
 Berikut adalah tampilan Linux UBUNTU Versi 24.04 yang berhasil diinstal
 
 ![Linux UBUNTU 24.04](Screenshot%20Tugas%20linux/Screenshot%202024-08-29%20193628.png)
+
+
+
+### Soal Nomor 2
+
+Karena “/” adalah root filesystem yang menyimpan semua file sistem dan direktori penting, pemilihan opsi Mount Point ini memastikan bahwa sistem tahu di mana menyimpan data dan konfigurasi sistem.
+
+
+### Soal Nomor 3
+
+*ext4* adalah sistem berkas default di banyak distribusi Linux modern, menawarkan dukungan untuk ukuran file hingga 16 TB dan partisi hingga 1 EB. Fitur-fiturnya termasuk jurnal, cek konsistensi, dan efisiensi penyimpanan.
+
+*ext3* adalah versi sebelumnya dari ext4, mendukung ukuran file hingga 2 TB dan partisi hingga 32 TB. Fitur utamanya adalah jurnal yang membantu pemulihan data setelah crash.
+
+*swap* adalah partisi atau file di Linux yang digunakan sebagai memori virtual untuk memperluas kapasitas RAM dengan menyimpan data yang tidak aktif, membantu manajemen memori saat RAM fisik penuh.
+
+*NTFS* adalah sistem berkas default untuk Windows NT dan versi terbaru, mendukung ukuran file besar, fitur keamanan file, dan kompresi data. Di Linux, NTFS memerlukan driver tambahan untuk akses baca-tulis.
+
+*FAT32* adalah sistem berkas yang lebih tua, umum pada media penyimpanan portabel, mendukung ukuran file hingga 4 GB dan partisi hingga 2 TB. Kelemahannya adalah tidak mendukung fitur seperti izin file atau enkripsi.
+
+*Btrfs* adalah sistem berkas modern untuk Linux dengan fitur canggih seperti snapshot, kompresi, dan pengelolaan ruang efisien. Meskipun menawarkan banyak fitur, Btrfs masih dalam pengembangan aktif dan lebih kompleks dibandingkan ext4.
