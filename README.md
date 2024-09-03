@@ -5,8 +5,8 @@
 Pada praktikum ini, kami melakukan instalasi sistem operasi Ubuntu di VirtualBox untuk memahami dasar-dasar penggunaan virtualisasi dan pengaturan sistem operasi Linux.
 
 ## Alat dan Bahan
-- VirtualBox versi 24.04
-- ISO file Ubuntu
+- VirtualBox
+- ISO file Ubuntu Versi 24.04
 - PC/Laptop
 
 ## Langkah-Langkah Instalasi
